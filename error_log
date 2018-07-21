@@ -1,0 +1,14 @@
+[17-Jun-2018 19:15:41 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 125
+[17-Jun-2018 19:15:44 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 125
+[17-Jun-2018 19:15:46 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 125
+[17-Jun-2018 19:15:54 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 125
+[17-Jun-2018 19:18:24 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 126
+[20-Jun-2018 09:53:14 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 128
+[20-Jun-2018 11:43:54 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 131
+[22-Jun-2018 17:41:35 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 128
+[22-Jun-2018 17:42:49 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 128
+[22-Jun-2018 17:53:17 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 131
+[22-Jun-2018 17:53:40 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 131
+[22-Jun-2018 18:07:36 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/alajocom/public_html/application/controllers/Register.php on line 131
+[23-Jun-2018 15:27:31 UTC] PHP Fatal error:  Redefinition of parameter $phone in /home2/alajocom/public_html/application/models/User_Model.php on line 49
+[24-Jun-2018 12:48:43 Etc/UTC] PHP Fatal error:  require(): Failed opening required '/home2/alajocom/public_html/assets/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/alajocom/public_html/application/models/User_Model.php on line 159
